@@ -1,6 +1,6 @@
 # Mundari TTS Dataset Corpus
 
-This corpus was created as part of a collaboration between Deutsche Gesellschaft für Internationale Zusammenarbeit (GiZ) in Germany, Microsoft Research India, Indian Institute of Technology Kharagpur, and Karya. The dataset contains 26,870 recordings of Mundari speech, spoken by two different speakers (one female and one male). This dataset is realeased under the non-commercial version of the Karya Public License. Please read the "License" section below for a high-level summary of what you are allowed and not allowed to do under this license.
+This dataset contains 26,870 recordings of Mundari speech, spoken by two different speakers (one female and one male). It is released under the non-commercial version of the Karya Public License. Please read the "License" section below for a high-level summary of what you are allowed and not allowed to do under this license. This corpus was created by Microsoft Research India, the Indian Institute of Technology Kharagpur, and Karya in collaboration with the project of Indo-German Development Cooperation “FAIR Forward – Artificial Intelligence for all”. FAIR Forward is being implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) on behalf of the Federal Ministry for Economic Cooperation and Development (BMZ).
 
 ## Data Description
 
