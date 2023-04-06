@@ -1,2 +1,4 @@
 © 2023 DAIA Tech Pvt Ltd.
 This work is licensed under a KPL BY-NC-SA-FS 1.0 license.
+
+This corpus was created by Microsoft Research India, the Indian Institute of Technology Kharagpur, and Karya in collaboration with the project of Indo-German Development Cooperation "FAIR Forward – Artificial Intelligence for all". FAIR Forward is being implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) on behalf of the Federal Ministry for Economic Cooperation and Development (BMZ).
